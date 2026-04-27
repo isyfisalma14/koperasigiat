@@ -203,66 +203,6 @@
 </div>
 </div>
 </div>
-<!-- Recommendations Section: Tonal Surface Transition -->
-<section class="mt-24 pt-20 border-t border-outline-variant/10">
-<div class="flex justify-between items-end mb-12">
-<div>
-<h2 class="text-3xl font-extrabold text-primary mb-2">Pasangan Sempurna</h2>
-<p class="text-on-surface-variant">Sering dipesan bersama Nasi Lemak Spesial</p>
-</div>
-<button class="text-primary font-bold text-sm underline decoration-2 underline-offset-4">Lihat Semua</button>
-</div>
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-<!-- Rec Card 1 -->
-<div class="group cursor-pointer">
-<div class="relative aspect-[3/4] rounded-3xl overflow-hidden mb-6 bg-surface-container-lowest transition-all group-hover:shadow-[0_12px_32px_rgba(128,0,0,0.08)]">
-<img alt="Teh Tarik" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" data-alt="Glass of authentic Malaysian Teh Tarik with frothy foam on top, soft focus cafe background, warm tones" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDM1oY8BNiNoG5-8pd0RbD3DIyXpVdeHNGxuzOWFj37G-boTXMuK8u_ewED4puWFrQBIq82mXNI6Y1gIArq8tvGJUHDbGjrfRGR64R16VXzvdBvAurqMxWFEDB4JvJaDdrYEiDKeTCIJka_JnalINHn-HHcfazdyfnDSYmljzn4-uJpdQyNkarW5VgqRIK6kwOuop_ZAoAAlTiKuDrFGUhKJewrb_QHAYrdgl_3y_2y0ouQ2iPkxFQk_1e-Yihs_EBVisdLXcOhpg5q"/>
-<div class="absolute bottom-4 right-4 bg-primary text-white p-2 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 translate-y-2 group-hover:translate-y-0 transition-all">
-<span class="material-symbols-outlined text-lg">add</span>
-</div>
-</div>
-<h3 class="text-lg font-bold text-primary group-hover:text-primary-container transition-colors">Teh Tarik Hangat</h3>
-<p class="text-on-surface-variant text-sm mb-2">Minuman</p>
-<p class="text-on-surface font-bold">Rp 8.000</p>
-</div>
-<!-- Rec Card 2 -->
-<div class="group cursor-pointer">
-<div class="relative aspect-[3/4] rounded-3xl overflow-hidden mb-6 bg-surface-container-lowest transition-all group-hover:shadow-[0_12px_32px_rgba(128,0,0,0.08)]">
-<img alt="Satay Ayam" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" data-alt="Grilled chicken satay skewers with rich peanut sauce and diced cucumbers, moody restaurant lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAonEQw-V8-rfI4CNilQSa2LgUi9ePJn9mffF3_F6N4C3BD2fXf6ITAQ-njAdh2NWJ_WKu7qhBPQeWl8mrea0OjNXGDlVyNWTd9bYF6kRLq35j3g_DFJhN6M9Qy_eqeTq8yypqigf7yNDScPbOd4WeCeVH6_Gx8MgL1bHlhNqAxd89gt9sk0HYtmcpuCrq73AUIh2kBszxbq5Hf5F4awrEQPiMFi7H218lqKqVZ48flkHzU8yiSH0g-FkK1fwRS9wgCxtgCRDtsNgCQ"/>
-<div class="absolute bottom-4 right-4 bg-primary text-white p-2 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 translate-y-2 group-hover:translate-y-0 transition-all">
-<span class="material-symbols-outlined text-lg">add</span>
-</div>
-</div>
-<h3 class="text-lg font-bold text-primary group-hover:text-primary-container transition-colors">Sate Ayam Madura</h3>
-<p class="text-on-surface-variant text-sm mb-2">Snack</p>
-<p class="text-on-surface font-bold">Rp 15.000</p>
-</div>
-<!-- Rec Card 3 -->
-<div class="group cursor-pointer">
-<div class="relative aspect-[3/4] rounded-3xl overflow-hidden mb-6 bg-surface-container-lowest transition-all group-hover:shadow-[0_12px_32px_rgba(128,0,0,0.08)]">
-<img alt="Pisang Goreng" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" data-alt="Golden crispy fried bananas served on a wooden plate, soft daylight, minimalist composition" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD-FEaDtIPL-6XIvunZh9xXcyO8w4rzqVfAS5LgLEJ_ycfMdFAX_jTgPiyaFTYZvpdo7f9GiJO2KZ52b3-ImHugmi9azzibTA-QimCj9fTxTQeMd41FdQ3uKe5G5giL8mT89_FlsWba_jk9ueY-PWBLtkOII8RUT_t7C3EKuQXMddw8snSFWcG75PIMCOoiBhYLyZgM72q0cEVmmENJXDNcmqVfWppyNx68uI4w-EMaSp5T-hAhIDCMMf8kjz-GDdODTCKZBeAEtFOu"/>
-<div class="absolute bottom-4 right-4 bg-primary text-white p-2 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 translate-y-2 group-hover:translate-y-0 transition-all">
-<span class="material-symbols-outlined text-lg">add</span>
-</div>
-</div>
-<h3 class="text-lg font-bold text-primary group-hover:text-primary-container transition-colors">Pisang Goreng Keju</h3>
-<p class="text-on-surface-variant text-sm mb-2">Snack</p>
-<p class="text-on-surface font-bold">Rp 12.000</p>
-</div>
-<!-- Rec Card 4 -->
-<div class="group cursor-pointer">
-<div class="relative aspect-[3/4] rounded-3xl overflow-hidden mb-6 bg-surface-container-lowest transition-all group-hover:shadow-[0_12px_32px_rgba(128,0,0,0.08)]">
-<img alt="Es Jeruk" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" data-alt="Iced orange juice with a slice of fresh orange and mint leaf, vibrant natural lighting, refreshing look" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAziolFRY6J4puDatoGI2Anoe_n8h6JuXhk6Q7lU64ns7z8_9XxXzlBDJRVLPzbajj8lRlDDMtHYGzyn1z2H14dmWZRIhaIBZXRFWg4NVos4Xymp8cA3yartQ3Q3WiX8m_N_eGnvjnGsC2-L2HLXVE7c2Cuill6YbnkUJ7TwiVwsYhbBder4w1kgcie3zbvGEYo8mBLdbVeHoyjwWC-SJX1-HNnZPT_1vloPWQvOGRi-AaUS5Xm4hQJnyrLM0YfQhvHVLaS-Av91cGT"/>
-<div class="absolute bottom-4 right-4 bg-primary text-white p-2 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 translate-y-2 group-hover:translate-y-0 transition-all">
-<span class="material-symbols-outlined text-lg">add</span>
-</div>
-</div>
-<h3 class="text-lg font-bold text-primary group-hover:text-primary-container transition-colors">Es Jeruk Peras</h3>
-<p class="text-on-surface-variant text-sm mb-2">Minuman</p>
-<p class="text-on-surface font-bold">Rp 7.000</p>
-</div>
-</div>
-</section>
 </main>
 <!-- BottomNavBar (Mobile Only) -->
 <div class="md:hidden fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-4 pb-6 pt-3 bg-[#faf9f6]/80 backdrop-blur-md rounded-t-3xl shadow-[0_-8px_24px_rgba(128,0,0,0.04)]">
